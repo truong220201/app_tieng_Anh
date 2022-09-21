@@ -8,7 +8,7 @@ import{
     TextInput,
     Dimensions,
     TouchableOpacity,
-    Pressable,
+    Pressable, 
     Alert
 } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
