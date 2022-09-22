@@ -11,7 +11,7 @@ import chontrinhdo from './app/screens/TestForm/chontrinhdo';
 import Home from './app/screens/Home/Home';
 //layer sau khi ấn vào từng danh mục tại menu
 import menuScreen from './app/screens/List/menuScreen';
-//layer footer
+//layer footer 
 import bTabs from './bottomTabs';
 //layer hướng dẫn trước khi kiểm tra
 import huongdan from './app/screens/HuongDan/huongdan';
